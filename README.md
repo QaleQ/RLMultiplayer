@@ -17,9 +17,9 @@ To play online:
 
 - Both the client and the host must subscribe to the map that will be hosted, and then run this script to add the map to the game.
 
-- The client connects to the host using "connect <ip-adress>" (no quotes or brackets) in the console (F6 in game)
+- The client connects to the host using "connect [ip-adress]" (no quotes or brackets) in the console (F6 in game)
   
-- The host hosts by using "start <mapname>?Lan?Listen"
+- The host hosts by using "start [mapname]?Lan?Listen"
   
 - Any deviations from the default game settings are have to be specified within the start command
 
