@@ -10,9 +10,10 @@ to trick the game into loading them as normal maps when the game starts.
 
 
 To play online:
--The host has to open the required ports (will add later)
 
--Both the client and the host has to be running BakkesMod
+- The host has to open the required ports (will add later)
+
+- Both the client and the host has to be running BakkesMod
 
 - Both the client and the host must subscribe to the map that will be hosted, and then run this script to add the map to the game.
 
